@@ -2,6 +2,8 @@ import React,{useState} from 'react'
 // import { Link } from 'react-router-dom'
 import Proj from './JSON'
 
+
+
 const Projects = () => {
 
     const [items, setitems] = useState(Proj);

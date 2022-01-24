@@ -16,7 +16,7 @@ const About = () => {
                         <div className="col-10 col-md-10 mx-auto ">
 
                             <div className="heading mt-5">
-                                <h1 className="about-head">About <span>Us</span></h1>
+                                <h1 className="about-head">About <span>Me</span></h1>
                             </div>
                             <div className="row">
 
@@ -48,7 +48,7 @@ const About = () => {
                 <p class="skl sklLine">_________</p>
                 <div class="htmlProg ProgWidth">
                     <div class="p">
-                        <p>html</p>
+                        <p>Java & DSA</p>
                         <p>95%</p>
                     </div>
                     <div class="pp">
@@ -59,8 +59,8 @@ const About = () => {
                 </div>
                 <div class="cssProg ProgWidth">
                     <div class="p">
-                        <p>Css3</p>
-                        <p>70%</p>
+                        <p>HTML</p>
+                        <p>90%</p>
                     </div>
                     <div class="pp">
                         <div class="skillDiv">
@@ -81,7 +81,7 @@ const About = () => {
                 </div>
                 <div class="javaProg ProgWidth">
                     <div class="p">
-                        <p>Java</p>
+                        <p>CSS</p>
                         <p>85%</p>
                     </div>
                     <div class="pp">
@@ -125,7 +125,7 @@ const About = () => {
                 </div>
                 <div class="sqlProg ProgWidth">
                     <div class="p">
-                        <p>Sql</p>
+                        <p>MERN STack</p>
                         <p>85%</p>
                     </div>
                     <div class="pp">
